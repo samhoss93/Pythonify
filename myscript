@@ -1,0 +1,6 @@
+#!/bin/bash
+cd /path/to/your/repository
+git add .
+git commit -m "Auto-save progress"
+git push origin main
+
